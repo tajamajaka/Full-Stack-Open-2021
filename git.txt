@@ -1,0 +1,25 @@
+**********git**********
+
+Configurar USUARIO:
+git config --global user.name
+git config --global user.email
+git config --global color.ul true
+
+listar variables configuradas
+git config --global --list
+
+
+Status del proyecto 
+gti status
+
+Agregar archivos a la cola
+git add [archivo]
+
+git add -A (agrega TODOS los archivos en el subdirectorio)
+
+
+git commit -m "mensaje del commit"
+
+RAMAS
+git branch -nombre de rama-
+git checkuot [nombre de rama]
